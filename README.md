@@ -1,5 +1,8 @@
 <p><img src="https://github.com/TeddyO323/photos/blob/main/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6c6f775f6c6576656c5f70726f6772616d6d696e672f3233352f7368656c6c2e6a706567.jpg?raw=true" alt="" style="" /></p>
 
+<p><em>^ &ldquo;The Gates of Shell&rdquo;, by <a href="https://twitter.com/spencerhcheng/status/855104635069054977" title="Spencer Cheng" target="_blank">Spencer Cheng</a>, featuring <a href="https://twitter.com/julienbarbier42" title="Julien Barbier" target="_blank">Julien Barbier</a></em></p>
+
+
 ## Resources
 
 <p><strong>Read or watch</strong>:</p>
