@@ -1,4 +1,4 @@
-<p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg" alt="" style="" /></p>
+<p><img src="https://github.com/TeddyO323/photos/blob/main/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f696e7472616e65742d70726f6a656374732d66696c65732f686f6c626572746f6e7363686f6f6c2d6c6f775f6c6576656c5f70726f6772616d6d696e672f3233352f7368656c6c2e6a706567.jpg?raw=true" alt="" style="" /></p>
 
 ## Resources
 
