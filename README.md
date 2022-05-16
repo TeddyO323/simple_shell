@@ -300,6 +300,7 @@ $
 ```
 
 ## Authors :
-<li><a href="https://github.com/TeddyO323" title="Unix shell" target="_blank">Teddy Omondi</a> </li>
+<li><a href="https://github.com/TeddyO323" title="Teddy Omondi" target="_blank">Teddy Omondi</a> </li>
+<li><a href="https://github.com/MakenaKirimi" title="Makena Kirimi" target="_blank">Makena Kirimi</a> </li>
 
 
