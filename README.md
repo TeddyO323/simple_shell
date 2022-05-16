@@ -297,6 +297,6 @@ $
 ```
 
 ## Authors :
-* Nobert Ayesiga
-* Divine Chisom Ukonu:
+<li><a href="https://github.com/TeddyO323" title="Unix shell" target="_blank">Teddy Omondi</a> </li>
+
 
