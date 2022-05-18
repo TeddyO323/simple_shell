@@ -1,7 +1,7 @@
 /*
  * File: proc_file_comm.c
- * Authors: Ukonu, Divine Chisom
- *          Nobert Patrick
+ * Authors: Teddy Omondi
+ *          Kirimi Makena Faith
  */
 
 #include "shell.h"
