@@ -1,7 +1,7 @@
 /*
  * File: str_funcs1.c
- * Authors: Ukonu, Divine Chisom
- *          Nobert Patrick
+ * Authors: Teddy Omondi
+ *          Kirimi Makena Faith
  */
 
 #include "shell.h"
